@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0012/WYG/v1/juan/21
+seq: 21
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0012_WYG_021-1a, image: WYG0484/WYG0484-0299c.png}
+body:
+  text: 淳熙三山志巻二十一宋梁克家撰秩官類二封君郡守諸使唐戊寅武徳元年改郡改太守為刺史為州史加號持節州置刺史以建安郡為建州今福州淳熙三山志巻二十一
+  hash: sha256:0409a83e986839253eaa8779b493ecbac1b133606fdd77919bb591b3edca42f7
+metadata:
+  title: 淳熙三山志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:39:03.770786'
+  juan_title: 卷二十一
+  source:
+    repository: kanripo
+    path: KR2k0012/KR2k0012_021.txt
+hash: sha256:1d6184b20e0ce2c8b20c15ba1d80d7a40904ccd63dbb3f21a90915809fadf0cb

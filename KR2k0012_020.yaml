@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0012/krp/v1/juan/20
+seq: 20
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0012_WYG_020-1a, image: WYG0484/WYG0484-0284a.png}
+body:
+  text: 淳熙三山志卷二十宋梁克家撰秩官類一郡守封君諸使附閩自周季立國稱王秦雖置郡猶棄不屬獨降號君長而已漢興既詔復國綿及三世顧亡城郭邑里可以郡縣一經徙廢曽有孑遺三百餘年生聚日蕃自相臣僕孫氏崛起謀有江表乃拓平內地翦莠鉏荒然猶六十餘年僅克開郡又至于晉始建治此州渡江之後壤地既狹分部益多更宋齊至陳此州始為刺史唐初改郡為州太守並為刺史小大莫辨此州又始為都督開元分道置使採訪惟在邊鎮首謹兵防此州又始為經略乾元內外悉治軍戎大府要藩許専節制此州又始為防禦節度大厯以後冦難略平思弭甲兵鄉意風俗此州又始為觀察王氏僣僞固不足言皇朝改為提舉若提轄本路兵甲等事嘉祐中改為鈐轄大觀初又改為安撫總管因時廢置隨事立名輕重不同要皆總統一道兵民之寄比年府望益顯來涖者率宰執侍從之臣今自周秦以來封君而下至為諸使編年以見之其餘列職本末悉著焉淳熙三山志卷二十
+  hash: sha256:37a86164fa46ae46258c56c38b7d38f60beb9a8141a6b86579ca197cd69545e5
+metadata:
+  title: 淳熙三山志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:03.770786'
+  juan_title: 卷二十
+  source:
+    repository: kanripo
+    path: KR2k0012/KR2k0012_020.txt
+hash: sha256:852d27133f6821ccad265ab76ed6ec1646e87623c7dac305194eb6244b89660d

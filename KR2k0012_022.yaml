@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0012/krp/v1/juan/22
+seq: 22
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0012_WYG_022-1a, image: WYG0484/WYG0484-0316a.png}
+body:
+  text: 淳熙三山志卷二十二宋梁克家撰秩官類三郡守諸使本朝庚申建隆元年二年鮑修讓吉祥院記云乾德二淳熙三山志卷二十二
+  hash: sha256:d907f348d437bd7e98b1cbda7018c5fd384b18f88b40752d2432f81b264404bb
+metadata:
+  title: 淳熙三山志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:03.770786'
+  juan_title: 卷二十二
+  source:
+    repository: kanripo
+    path: KR2k0012/KR2k0012_022.txt
+hash: sha256:da2a60571d24f1779cc0aa8de68238433149de36027e31002be17e135e475a5e
