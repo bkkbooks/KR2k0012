@@ -12,7 +12,6 @@ markers:
       ', id: KR2k0012_krp_021-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2k0012_WYG_021-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2k0012_krp_021-bkkind1}
-  - {type: substitution, offset: 5, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
   - {type: 'kr:newline', offset: 9, content: '
 
       ', id: KR2k0012_krp_021-bkkkrnewl2}
@@ -42,7 +41,6 @@ markers:
   - {type: punctuation, offset: 25, content: (, id: KR2k0012_krp_021-bkkpn1}
   - {type: punctuation, offset: 26, content: /, id: KR2k0012_krp_021-bkkpn2}
   - {type: punctuation, offset: 27, content: ), id: KR2k0012_krp_021-bkkpn3}
-  - {type: substitution, offset: 28, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: punctuation, offset: 31, content: (, id: KR2k0012_krp_021-bkkpn4}
   - {type: punctuation, offset: 39, content: /, id: KR2k0012_krp_021-bkkpn5}
   - {type: punctuation, offset: 46, content: ), id: KR2k0012_krp_021-bkkpn6}
@@ -346,9 +344,8 @@ markers:
       ', id: KR2k0012_krp_021-bkkkrnewl84}
   - {type: line-break, offset: 60, content: '', id: KR2k0012_WYG_021-32b07}
   - {type: indent, offset: 60, content: 　, id: KR2k0012_krp_021-bkkind22}
-  - {type: substitution, offset: 65, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
   - {type: 'kr:newline', offset: 69, content: '
 
       ', id: KR2k0012_krp_021-bkkkrnewl85}
   back: []
-hash: sha256:1ac50ef105f7167844f4ed85e63c06c6e33f0ea51ff43b6e681bd006345ec5b9
+hash: sha256:3c5752b5bea4a83a4242cb3a56fd03a99fa82cd6a31ea9a70cc5a1a09de9bb90
