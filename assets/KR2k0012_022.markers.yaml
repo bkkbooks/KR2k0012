@@ -12,6 +12,7 @@ markers:
       ', id: KR2k0012_krp_022-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2k0012_WYG_022-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2k0012_krp_022-bkkind1}
+  - {type: substitution, offset: 5, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 9, content: '
 
       ', id: KR2k0012_krp_022-bkkkrnewl2}
@@ -46,8 +47,10 @@ markers:
       ', id: KR2k0012_krp_022-bkkkrnewl7}
   - {type: line-break, offset: 30, content: '', id: KR2k0012_WYG_022-1a08}
   - {type: indent, offset: 32, content: 　　　　, id: KR2k0012_krp_022-bkkind8}
+  - {type: substitution, offset: 34, original: 譲, replacement: 讓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20686}}
   - {type: punctuation, offset: 35, content: (, id: KR2k0012_krp_022-bkkpn4}
   - {type: punctuation, offset: 39, content: /, id: KR2k0012_krp_022-bkkpn5}
+  - {type: substitution, offset: 41, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 43, content: ), id: KR2k0012_krp_022-bkkpn6}
   - {type: 'kr:newline', offset: 43, content: '
 
@@ -333,8 +336,9 @@ markers:
       ', id: KR2k0012_krp_022-bkkkrnewl81}
   - {type: line-break, offset: 43, content: '', id: KR2k0012_WYG_022-30b08}
   - {type: indent, offset: 43, content: 　, id: KR2k0012_krp_022-bkkind24}
+  - {type: substitution, offset: 48, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 52, content: '
 
       ', id: KR2k0012_krp_022-bkkkrnewl82}
   back: []
-hash: sha256:01d466745269689aaf7d93fe2391849c0789272b9c424bfb5fab7af608ea6a44
+hash: sha256:27dad8ea3b85694b58a58eae9bc664b6d70734db774b34e729b0a986b29adee2

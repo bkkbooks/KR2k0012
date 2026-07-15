@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0012_WYG_022-1a, image: WYG0484/WYG0484-0316a.png}
 body:
-  text: 淳熙三山志巻二十二宋梁克家撰秩官類三郡守諸使本朝庚申建隆元年二年鮑修譲吉祥院記云乾徳二淳熙三山志巻二十二
-  hash: sha256:445c6d3d4834fb958b3b2955a2ca87249a3e5ba1994dc2cd2f3c9aa85856ae4d
+  text: 淳熙三山志卷二十二宋梁克家撰秩官類三郡守諸使本朝庚申建隆元年二年鮑修讓吉祥院記云乾德二淳熙三山志卷二十二
+  hash: sha256:d907f348d437bd7e98b1cbda7018c5fd384b18f88b40752d2432f81b264404bb
 metadata:
   title: 淳熙三山志
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0012/KR2k0012_022.txt
-hash: sha256:8afc51dfddc5e1e451ab7ded704a71f4e1f808232bf7688fa005b3b7a1689404
+hash: sha256:da2a60571d24f1779cc0aa8de68238433149de36027e31002be17e135e475a5e

@@ -12,6 +12,7 @@ markers:
       ', id: KR2k0012_krp_021-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2k0012_WYG_021-1a02}
   - {type: indent, offset: 0, content: 　, id: KR2k0012_krp_021-bkkind1}
+  - {type: substitution, offset: 5, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 9, content: '
 
       ', id: KR2k0012_krp_021-bkkkrnewl2}
@@ -41,6 +42,7 @@ markers:
   - {type: punctuation, offset: 25, content: (, id: KR2k0012_krp_021-bkkpn1}
   - {type: punctuation, offset: 26, content: /, id: KR2k0012_krp_021-bkkpn2}
   - {type: punctuation, offset: 27, content: ), id: KR2k0012_krp_021-bkkpn3}
+  - {type: substitution, offset: 28, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 31, content: (, id: KR2k0012_krp_021-bkkpn4}
   - {type: punctuation, offset: 39, content: /, id: KR2k0012_krp_021-bkkpn5}
   - {type: punctuation, offset: 46, content: ), id: KR2k0012_krp_021-bkkpn6}
@@ -344,8 +346,9 @@ markers:
       ', id: KR2k0012_krp_021-bkkkrnewl84}
   - {type: line-break, offset: 60, content: '', id: KR2k0012_WYG_021-32b07}
   - {type: indent, offset: 60, content: 　, id: KR2k0012_krp_021-bkkind22}
+  - {type: substitution, offset: 65, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 69, content: '
 
       ', id: KR2k0012_krp_021-bkkkrnewl85}
   back: []
-hash: sha256:3c5752b5bea4a83a4242cb3a56fd03a99fa82cd6a31ea9a70cc5a1a09de9bb90
+hash: sha256:99fa255fb79a63e8d55d0bd902c34d13c209b358d2f68e2dfc51cd5a9fbe655e
